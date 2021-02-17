@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/14 18:39:00.000.311,=C:\Users\Matheus Faria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/14 18:47:21.000.883,=C:\Users\Matheus Faria\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/02/14 18:51:44.000.338,C:\Users\Matheus Faria\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\projetos\geradorDados\Unit1.pas</Transaction>
+    <Transaction>2021/02/14 18:51:44.000.338,C:\Users\Matheus Faria\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\projetos\geradorDados\Unit1.dfm</Transaction>
+    <Transaction>2021/02/14 18:51:46.000.807,C:\Users\Matheus Faria\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\projetos\geradorDados\Project2.dproj</Transaction>
+    <Transaction>2021/02/14 18:59:54.000.218,=C:\projetos\geradorDados\Unit2.pas</Transaction>
+    <Transaction>2021/02/14 19:00:14.000.730,C:\projetos\geradorDados\udm.dfm=C:\projetos\geradorDados\Unit2.dfm</Transaction>
+    <Transaction>2021/02/14 19:00:14.000.730,C:\projetos\geradorDados\udm.pas=C:\projetos\geradorDados\Unit2.pas</Transaction>
+    <Transaction>2021/02/14 19:00:24.000.994,C:\projetos\geradorDados\main.dfm=C:\projetos\geradorDados\Unit1.dfm</Transaction>
+    <Transaction>2021/02/14 19:00:24.000.994,C:\projetos\geradorDados\main.pas=C:\projetos\geradorDados\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
